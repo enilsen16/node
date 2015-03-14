@@ -1,0 +1,24 @@
+{
+  "name": "npm-tutorial",
+  "version": "1.0.1",
+  "description": "yeah...",
+  "main": "index.js",
+  "scripts": {
+    "test": "iojs test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Erik Nilsen",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enilsen16/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enilsen16/node/issues"
+  },
+  "homepage": "https://github.com/enilsen16/node"
+}
